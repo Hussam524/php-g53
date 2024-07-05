@@ -5,9 +5,9 @@
 $is_user_logged_in == true ;
 
 if($is_user_logged_in == true){
-    echo '<button> login </button>';
+    echo "<button> login </button>";
 }else{
-    echo' <button> logout </button>';
+    echo "<button> logout </button>";
 }
 
 
